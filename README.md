@@ -8,3 +8,5 @@ lab9-binary search tree
 lab10-AVL tree
 
 lab11-red-black tree
+
+lab12-binary heap
